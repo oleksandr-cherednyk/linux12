@@ -1,0 +1,299 @@
+    1  ssh keygen
+    2  ssh-keygen
+    3  ssh-keygen
+    4  cat .ssh/id_ed25519
+    5  cat .ssh/
+    6  cat .ssh
+    7  cat .ssh/id_ed25519.pub
+    8  clear
+    9  ssh ec2-user@linux.itcareerhub.de
+   10  ping 18.156.158.23
+   11  history
+   12  ssh ec2-user@linux.itcareerhub.de
+   13  ssh ec2-user@linux.itcareerhub.de
+   14  ssh ec2-user@linux.itcareerhub.de
+   15  ssh ec2-user@linux.itcareerhub.de
+   16  ssh ec2-user@linux.itcareerhub.de
+   17  clear
+   18  [200~$ clear
+   19  clear
+   20  ssh ec2-user@linux.itcareerhub.de
+   21  scp ec2-user@linux.itcareerhub.de:/opt/250425-wdm/pirat/file.txt folder/new.txt
+   22  clear
+   23  [200~
+   24  scp /opt/250425-wdm/pirat/test/output.txt ec2-user@linux.itcareerhub.de ./folder
+   25  scp ec2-user@linux.itcareerhub.de /opt/250425-wdm/pirat/test/output.txt ./folder
+   26  scp ec2-user@linux.itcareerhub.de /opt/250425-wdm/pirat/test/output.txt folder/
+   27  scp ec2-user@linux.itcareerhub.de:/opt/250425-wdm/pirat/test/output.txt folder/
+   28  scp ec2-user@linux.itcareerhub.de:/opt/250425-wdm/pirat/test folder/
+   29  scp ec2-user@linux.itcareerhub.de:/opt/250425-wdm/pirat/test folder/
+   30  scp -r ec2-user@linux.itcareerhub.de:/opt/250425-wdm/pirat/test folder/
+   31  mkdir folder
+   32  tree
+   33  tree /
+   34  ls /
+   35  cd /folder
+   36  cd /folderclear
+   37  clear
+   38  cd folder
+   39  tree
+   40  ls
+   41  clear
+   42  tree
+   43  ls
+   44  cat output.txt
+   45  ls
+   46  find
+   47  touch ewrwe.txt
+   48  ssh ec2-user@linux.itcareerhub.de
+   49  ssh server
+   50  ssh server
+   51  ssh server
+   52  ssh server
+   53  clear
+   54  ssh server
+   55  clear
+   56  ssh server
+   57  ssh server
+   58  ssh server
+   59  ssh server
+   60  [200~
+   61  scp server:/opt/250425-wdm/pirat/some_file.txt /
+   62  scp server:/opt/250425-wdm/pirat/some_file.txt ./
+   63  scp server:/opt/250425-wdm/pirat/some_text.txt ./
+   64  scp server:/opt/250425-wdm/pirat/some_text.txt /
+   65  ssh server
+   66  exit
+   67  SSH SERVER
+   68  ssh server
+   69  ssh server
+   70  mkdir 1706
+   71  cd 1706
+   72  echo "# 1706" >> README.md
+   73  git init
+   74  git add README.md
+   75  git commit -m "first commit"
+   76  git branch -M main
+   77  git remote add origin git@github.com:oleksandr-cherednyk/1706.git
+   78  git remote -v
+   79  [200~
+   80  git push -u origin main
+   81   ls -la
+   82  ecjo "some text" >> README.md
+   83  echo "some text" >> README.md
+   84  touch file.txt
+   85  mkdir test
+   86  ls -l
+   87  git status
+   88  git add .
+   89  git status
+   90  git commit -m "modified README.md + added data some text, created file.txt"
+   91  git push
+   92  git log
+   93  git log --online
+   94  git log --oneline
+   95  cd ........................
+   96  rm -rf 1706
+   97  cd ..
+   98  rm -rf 1706
+   99  mkdir test
+  100  cd test
+  101  ls
+  102  git init
+  103  echo "# test" >> README.md
+  104  git status
+  105  git add .
+  106  git commit -m "addes README"
+  107  git branch -M main
+  108  git branch 
+  109  git remote add origin git@github.com:oleksandr-cherednyk/test.git
+  110  git push -u origin main
+  111  mkdir git_intro
+  112  echo "# git_intro" >> README.md
+  113  git init
+  114  git branch -M main
+  115  git add README.md
+  116  git add img.png
+  117  mkdir git_intro
+  118  cd git_intro
+  119  git add img.webp
+  120  git commit -m "Added photo"
+  121  mkdir git_intro
+  122  mkdir git_intro
+  123  cd git_intro
+  124  git add img.webp
+  125  git commit -m "Added photo"
+  126  git commit -m "Added photo"
+  127  git add README.md
+  128  git commit -m "Added photo"
+  129  cd git_intro
+  130  echo "# git_intro" >> README.md
+  131  git init
+  132  git add img.webp
+  133  git commit -m "Added photo"
+  134  git branch -M main
+  135  git remote add origin git@github.com:oleksandr-cherednyk/git_intro.git
+  136  git push -u origin main
+  137  cd /
+  138  git clone https://github.com/oleksandr-cherednyk/git_intro.git
+  139  git clone https://github.com/oleksandr-cherednyk/git_intro
+  140  $ git clone https://github.com/oleksandr-cherednyk/git_intro.git
+  141  fatal: could not create work tree dir 'git_intro': Permission denied
+  142  cd ~
+  143  $ git clone https://github.com/oleksandr-cherednyk/git_intro.git
+  144  mkdir pr
+  145  cd pr
+  146  $ git clone https://github.com/oleksandr-cherednyk/git_intro.git
+  147  git clone https://github.com/oleksandr-cherednyk/git_intro.git
+  148  cd git_intro
+  149  git log --oneline
+  150  git log --author
+  151  git status
+  152  clear
+  153  ls -la .git
+  154  rm -rf .git 
+  155  cd
+  156  git branch
+  157  git rev-parse --show-toplevel
+  158  mkdir test
+  159  ls -la test
+  160  rm -rf test
+  161  mkdir test
+  162  cd test
+  163  git init
+  164  ls -la test
+  165  ls -la 
+  166  git branch -m main
+  167  clear
+  168  git branch 
+  169  git status
+  170  git add .
+  171  git status
+  172  git status
+  173  git add .
+  174  git status
+  175  git  rm —cached
+  176  git  rm --cached moto2.jpg
+  177  git status
+  178  git commit -m "added file moto.jpg"
+  179  git status
+  180  git remote add origin git@github.com:oleksandr-cherednyk/test.git
+  181  git remote -v
+  182  git pish
+  183  git push
+  184  git push -u origin main
+  185  git pull origin main --rebase
+  186  git status
+  187  ls -la
+  188  git log
+  189  git push -u origin main
+  190  git log
+  191  git checkout -b gitignore
+  192  cd ~
+  193  git clone git@github.com:oleksandr-cherednyk/bashscripts.git
+  194  cd bashscripts
+  195  ls -la
+  196  git remote add upstream https://github.com/aliaskov/bashscripts.git
+  197  git remote -v
+  198  cd
+  199  git clone git@github.com:oleksandr-cherednyk/bash-tetris.git
+  200  cd bash-tetris
+  201  ls -la
+  202  ./tetris.sh
+  203  clear
+  204  ls -la
+  205  vi tetris.sh
+  206  git checkout -b test
+  207  rm -rf test 20/
+  208  git add .
+  209  git commit -m "delated files"
+  210  git checkout master
+  211  git merge test
+  212  git push -u origin master
+  213  git remote -v
+  214  git remote add upstream https://github.com/iohichu/bash-tetris.git
+  215  git remote -v
+  216  git fetch
+  217  git fetch --all
+  218  git merge upstream/master  
+  219  ls -la
+  220  git log
+  221  git checkout -b 111
+  222  touch file.txt
+  223  ls
+  224  git status
+  225  git stash push -n "pravki"
+  226  git stash push -m "pravki"
+  227  git stash list
+  228  git checkout master
+  229  git stash list
+  230  git stash push -m "pravki"
+  231  git checkout 111
+  232  git add .
+  233  git stash push -m "pravki"
+  234  git stash list
+  235  git stash clear
+  236  cd .git
+  237  ls -la
+  238  cd object
+  239  cd objects
+  240  ls -la
+  241  tree
+  242  ls -lR
+  243  cd ..
+  244  ls -lR
+  245  cccccllear
+  246  clear
+  247  ssh server
+  248  ssh server
+  249  mkdir git-branch
+  250  cd git-branch
+  251  git init
+  252  git branch -M main
+  253  git remote add origin git@github.com:oleksandr-cherednyk/git-branch.git
+  254  git checkout -b gitignore
+  255  curl -o .gitignore https://raw.githubusercontent.com/aliaskov/bashscripts/master/.gitignore
+  256  cat .gitignore
+  257  clear
+  258  git add .gitignore
+  259  git commit -m "В ветке gitignore добавлен файл .gitignore"
+  260  git push -u origin gitignore
+  261  git branch
+  262  git branch -r
+  263  ssh server
+  264  ssh server
+  265  ssh server
+  266  �шшi
+  267  exit
+  268  ssh server
+  269  scp server/opt/250425-wdm/Oleksandr/permission_checker.sh .
+  270   
+  271  scp server:/opt/250425-wdm/Oleksandr/permission_checker.sh .
+  272  sass -v
+  273  note -v
+  274  nvm-v
+  275  nvm -v
+  276  git clone git@github.com:oleksandr-cherednyk/linux12.git
+  277  cd linux12
+  278  git checkout -b feature
+  279  ls -la
+  280  touch README.md
+  281  echo -e "# Linux 12"
+  282  echo -e "# Linux 12" >> README.md
+  283  vi README.md
+  284  cat README.md
+  285  vi .gitignore
+  286  echo -e "# Sass / SCSS\n.sass-cache/\n*.css.map\n*.scssc" >> .gitignore
+  287  teil -n 4 .gitignore
+  288  tail -n 4 .gitignore
+  289  git add README.md .gitignore
+  290  git commit -m "1: created file README.md and added some text for changes. 2: added ignors for Sass/SCSS to .gitignore"
+  291  git push origin feature
+  292  clear
+  293  git commit --amend -m "1: created file README.md and added some text for changes. 2: added ignors for Sass/SCSS to .gitignore ammend"
+  294  git push --force
+  295  git checkout main
+  296  git pull origin main
+  297  git merge feature
+  298  git push origin main
+  299  history > history.txt
